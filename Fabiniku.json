@@ -4,5 +4,17 @@
   "artist": "Ikezawa Shin",
   "author": "Tsurusaki Yuu",
   "cover": "https://mangadex.org/covers/975f3334-8395-4393-84a2-50fcaccbcdc0/346f9758-c44e-4af0-a9e0-412d0f265bb3.jpg",
-  "chapters": {}
+  "chapters": {
+    "240": {
+      "title": "240",
+      "volume": "",
+      "last_updated": "1756698356",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1PqbJNqdtBBPzBCr7eGZUyHBilca5RWpl",
+          "https://drive.google.com/file/d/1PqbJNqdtBBPzBCr7eGZUyHBilca5RWpl/view?usp=sharing"
+        ]
+      }
+    }
+  }
 }
