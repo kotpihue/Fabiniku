@@ -4,5 +4,126 @@
   "artist": "Ikezawa Shin",
   "author": "Tsurusaki Yuu",
   "cover": "https://mangadex.org/covers/975f3334-8395-4393-84a2-50fcaccbcdc0/f0217b36-4eea-4f37-8ba6-496056633f6d.jpg",
-  "chapters": {}
+  "chapters": {
+    "238": {
+      "title": "238",
+      "volume": "",
+      "last_updated": "1767459451",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7b69exvy5"
+      }
+    },
+    "239": {
+      "title": "239",
+      "volume": "",
+      "last_updated": "1767459462",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7obp2j94p"
+      }
+    },
+    "240": {
+      "title": "240",
+      "volume": "",
+      "last_updated": "1767459476",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2o5rl84l"
+      }
+    },
+    "241": {
+      "title": "241",
+      "volume": "",
+      "last_updated": "1767459490",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2o5rln4l"
+      }
+    },
+    "242": {
+      "title": "242",
+      "volume": "",
+      "last_updated": "1767459501",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrnkqdk7p"
+      }
+    },
+    "243": {
+      "title": "243",
+      "volume": "",
+      "last_updated": "1767459514",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mepb2qyd"
+      }
+    },
+    "244": {
+      "title": "244",
+      "volume": "",
+      "last_updated": "1767459527",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wnpkr37x"
+      }
+    },
+    "245": {
+      "title": "245",
+      "volume": "",
+      "last_updated": "1767459538",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny86ngop4b"
+      }
+    },
+    "246": {
+      "title": "246",
+      "volume": "",
+      "last_updated": "1767459551",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24a69wvgyl"
+      }
+    },
+    "247": {
+      "title": "247",
+      "volume": "",
+      "last_updated": "1767459573",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yxnpe2m7q"
+      }
+    },
+    "248": {
+      "title": "248",
+      "volume": "",
+      "last_updated": "1767459586",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7obp2xa4p"
+      }
+    },
+    "249": {
+      "title": "249",
+      "volume": "",
+      "last_updated": "1767459596",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2o5r3n4l"
+      }
+    },
+    "250": {
+      "title": "250",
+      "volume": "",
+      "last_updated": "1767459607",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jmpxv548"
+      }
+    },
+    "251": {
+      "title": "251",
+      "volume": "",
+      "last_updated": "1767459616",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqkpjzey2"
+      }
+    },
+    "252": {
+      "title": "252",
+      "volume": "",
+      "last_updated": "1767459625",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73oamwv7r"
+      }
+    }
+  }
 }
